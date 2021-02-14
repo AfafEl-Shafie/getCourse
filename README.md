@@ -1,2 +1,2 @@
 # getCourse
-## project nates
+## project notes
